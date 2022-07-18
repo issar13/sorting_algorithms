@@ -20,5 +20,6 @@ shell
 counting
 merge
 heap
+deck
 radix
 bitonic
